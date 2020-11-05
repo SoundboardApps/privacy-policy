@@ -19,6 +19,7 @@ TABLE OF CONTENTS
 12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 13. HOW CAN YOU REVIEW, UPDATE OR DELETE THE DATA WE COLLECT FROM YOU?
 
+
 1. WHAT INFORMATION DO WE COLLECT? 
 Information automatically collected
 In Short: Some information - such as your Internet Protocol (IP) address and/or browser and device characteristics - is collected automatically when you visit our App.
